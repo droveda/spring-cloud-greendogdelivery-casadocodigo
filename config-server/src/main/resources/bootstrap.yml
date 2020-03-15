@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: /home/fb/config-repo
+          uri: /Users/diegues/IdeaProjects/2020/study/livro-spring-boot/spring-cloud-greendogdelivery-casadocodigo/config-repo
